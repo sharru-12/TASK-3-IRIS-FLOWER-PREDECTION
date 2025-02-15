@@ -1,5 +1,4 @@
 # TASK-3-IRIS-FLOWER-PREDECTION
-Here's a sample README for an Iris Flower Prediction Data Science project:
 
 Iris Flower Prediction
 
